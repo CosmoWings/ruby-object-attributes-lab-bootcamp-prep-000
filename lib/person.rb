@@ -12,6 +12,6 @@ class Person
   end
   
   def job
-    @njob
+    @job
   end
 end
